@@ -4,18 +4,18 @@ This repository contains an animated login form created using HTML and CSS. The 
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube](https://youtu.be/se5nDHTmEKo))
+click on the link to see :- ([Open in Youtube](https://youtu.be/FGOyO80bhIg))
 
 # Screenshot
 Here we have project screenshot :
 
 
 Login Page:
-![screenshot](blackaestheticmountains.png)
+![screenshot](city.png)
 
 
 Raw Image:
-![screenshot](black-aesthetic-mountains-4k-9k.jpg)
+![screenshot](FuturisticCityWallpaper.jpg)
 
 
 # Features:
